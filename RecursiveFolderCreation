@@ -1,0 +1,5 @@
+import os
+
+x = range(1,41)
+for folder in x:
+    os.mkdir("V"+str(folder))
