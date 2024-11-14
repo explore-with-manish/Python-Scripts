@@ -1,0 +1,14 @@
+{
+    "apples": {
+        "Manish": 3,
+        "Abhijeet": 2,
+        "Ramakant": 0,
+        "Pravin": 1
+    },
+    "oranges": {
+        "Manish": 0,
+        "Abhijeet": 3,
+        "Ramakant": 7,
+        "Pravin": 2
+    }
+}

@@ -1,0 +1,4 @@
+.vscode/
+**/*.zip
+__pycache__/
+devEnv/

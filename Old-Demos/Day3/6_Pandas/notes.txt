@@ -1,0 +1,19 @@
+1. Create ProjectFolder
+2. cd ProjectFolder
+3. py -m venv devEnv
+4. devEnv\Scripts\activate
+5. pip install matplotlib pandas pylint
+6. pip freeze > requirements.txt
+7. Create app.py file and write your app code
+8. py app.py
+9. devEnv\Scripts\deactivate
+
+----------------------------------------- When you are working with pre-created project
+
+1. cd ProjectFolder
+2. py -m venv devEnv
+3. devEnv\Scripts\activate
+4. pip install -r requirements.txt
+5. Modify app.py file and write your app code
+6. py app.py
+7. devEnv\Scripts\deactivate
